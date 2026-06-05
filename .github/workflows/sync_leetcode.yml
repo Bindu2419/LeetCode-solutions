@@ -20,7 +20,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "Bindu2419"
-          git config user.email "chinta.25mca10064@vitbhopal.ac.in"
+          git config user.email "binduchinta0@gmail.com"
           git add -A
           git status
           git diff --staged --quiet && echo "Nothing to commit" || git commit -m "Sync LeetCode submissions"
