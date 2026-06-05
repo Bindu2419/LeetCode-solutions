@@ -7,9 +7,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync
-        uses: lootek/leetcode-sync@v2.0.0
-        with:
-          github-token: ${{ github.token }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+      - uses: actions/checkout@v4
+      - name: Sync LeetCode
+        uses: dos-m0nk3y/LeetCode-Synchronizer@main
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
