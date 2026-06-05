@@ -42,6 +42,9 @@ def get_solved_problems():
     )
     data = response.json()
     print(f"Total problems fetched: {len(data.get('stat_status_pairs', []))}")
+statuses = set(p.get("status") for p in data.get("stat_status_pairs", []))
+print(f"Statuses found: {statuses}")
+solved = []
     solved = []
     for p in data.get("stat_status_pairs", []):
         if p.get("status") == "ac":
