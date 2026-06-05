@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Sync Submissions
         uses: joshcai/leetcode-sync@v1.7
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
