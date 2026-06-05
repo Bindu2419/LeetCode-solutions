@@ -21,6 +21,9 @@ EXTENSIONS = {
     "go": "go", "rust": "rs",
 }
 
+os.system('git config user.name "Bindu2419"')
+os.system('git config user.email "binduchinta0@gmail.com"')
+
 def get_solved_problems():
     response = requests.get(
         "https://leetcode.com/api/problems/all/",
@@ -30,8 +33,6 @@ def get_solved_problems():
     data = response.json()
     pairs = data.get("stat_status_pairs", [])
     print(f"Total problems fetched: {len(pairs)}")
-    if pairs:
-        print(f"Sample problem: {pairs[0]}")
     solved = []
     for p in pairs:
         if p.get("status") == "ac":
@@ -88,8 +89,6 @@ def get_submission_code(slug):
 
 def main():
     print("Fetching solved problems...")
-    print(f"Session starts with: {LEETCODE_SESSION[:20] if LEETCODE_SESSION else 'NONE'}")
-    print(f"CSRF starts with: {LEETCODE_CSRF_TOKEN[:10] if LEETCODE_CSRF_TOKEN else 'NONE'}")
     solved = get_solved_problems()
     print(f"Found {len(solved)} solved problems")
 
@@ -110,8 +109,13 @@ def main():
         filepath = f"{folder}/{slug}.{ext}"
         with open(filepath, "w") as f:
             f.write(code)
-        print(f"  Saved {filepath} ({lang})")
+        os.system(f'git add -A')
+        os.system(f'git commit -m "Sync LeetCode: {problem["title"]}"')
+        print(f"  Saved and committed {filepath} ({lang})")
         time.sleep(2)
+    
+    os.system('git push origin main')
+    print("Done!")
 
 if __name__ == "__main__":
     main()
