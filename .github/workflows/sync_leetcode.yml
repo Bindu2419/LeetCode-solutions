@@ -7,12 +7,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync Submissions
-        uses: joshcai/leetcode-sync@v1.7
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      - name: Sync
+        uses: lootek/leetcode-sync@v2.0.0
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           destination-folder: 'Python-Solutions'
