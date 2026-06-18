@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0018-4sum) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
