@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
 ## Stack
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
