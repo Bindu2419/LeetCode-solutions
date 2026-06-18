@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
