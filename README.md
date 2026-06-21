@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
 ## Stack
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
