@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 ## String Matching
 |  |
 | ------- |
@@ -117,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
