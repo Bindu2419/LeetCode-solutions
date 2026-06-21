@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
