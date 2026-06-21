@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
 ## Stack
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
