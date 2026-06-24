@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0048-rotate-image) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Greedy
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
