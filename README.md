@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0946-validate-stack-sequences) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Counting
 |  |
 | ------- |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0055-jump-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
