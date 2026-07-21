@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Bindu2419/LeetCode-solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3099-harshad-number](https://github.com/Bindu2419/LeetCode-solutions/tree/master/3099-harshad-number) |
 ## Array
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Bindu2419/LeetCode-solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## String
 |  |
 | ------- |
