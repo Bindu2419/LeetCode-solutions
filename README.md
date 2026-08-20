@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -168,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Bindu2419/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Bindu2419/LeetCode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
